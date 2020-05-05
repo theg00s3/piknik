@@ -33,7 +33,7 @@ document.addEventListener('mousemove', function(e) {
   }
 });
 
-document.addEventListener('mousewheel', function(e) {
+document.addEventListener('wheel', function(e) {
   e.preventDefault();
   z = Math.max(0, Math.min(100, z + e.deltaY / 10));
   setColor();
