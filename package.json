@@ -9,6 +9,6 @@
     "copy-to-clipboard": "^3.3.1",
     "watchify": "^3.11.1",
     "color-convert": "^2.0.1",
-    "uglifyify": "^3.0.4"
+    "uglifyify": "^5.0.2"
   }
 }
