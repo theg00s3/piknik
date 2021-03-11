@@ -4,7 +4,7 @@
     "watch": "watchify -dvo bundle.js js.js"
   },
   "dependencies": {
-    "browserify": "^16.5.1",
+    "browserify": "^17.0.0",
     "clipd": "^1.0.0",
     "copy-to-clipboard": "^3.3.1",
     "watchify": "^4.0.0",
