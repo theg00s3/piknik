@@ -7,7 +7,7 @@
     "browserify": "^16.5.1",
     "clipd": "^1.0.0",
     "copy-to-clipboard": "^3.3.1",
-    "watchify": "^3.11.1",
+    "watchify": "^4.0.0",
     "color-convert": "^2.0.1",
     "uglifyify": "^5.0.2"
   }
