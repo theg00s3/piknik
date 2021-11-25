@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "browserify -g [ uglifyify --no-sourcemaps ] js.js > bundle.js",
+    "build": "browserify -g [ uglifyify --no-sourceMap ] js.js > bundle.js",
     "watch": "watchify -dvo bundle.js js.js"
   },
   "dependencies": {
